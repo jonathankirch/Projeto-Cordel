@@ -121,14 +121,18 @@ footer a:hover {
         font-size: 2em;
     }
     .p-imagem {
-        font-family: 'Sriracha', cursive;
-        background-color: rgba(0, 0, 0, 0.486);
-        color: white;
         width: 380px;
         height: 400px;
     }
     header {
         font-size: 2.5em;
+    }
+    .imagem01 {
+        height: 400px;
+    }
+    
+    .imagem02 {
+        height: 400px;
     }
 }
 
@@ -137,14 +141,18 @@ footer a:hover {
         font-size: 3em;
     }
     .p-imagem {
-        font-family: 'Sriracha', cursive;
-        background-color: rgba(0, 0, 0, 0.486);
-        color: white;
         width: 570px;
         height: 600px;
     }
     header {
         font-size: 3.5em;
+    }
+    .imagem01 {
+        height: 600px;
+    }
+    
+    .imagem02 {
+        height: 600px;
     }
 }
 
@@ -153,13 +161,17 @@ footer a:hover {
         font-size: 4em;
     }
     .p-imagem {
-        font-family: 'Sriracha', cursive;
-        background-color: rgba(0, 0, 0, 0.486);
-        color: white;
         width: 760px;
         height: 780px;
     }
     header {
         font-size: 4.5em;
+    }
+    .imagem01 {
+        height: 800px;
+    }
+    
+    .imagem02 {
+        height: 800px;
     }
 }
