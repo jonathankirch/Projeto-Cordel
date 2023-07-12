@@ -175,3 +175,7 @@ footer a:hover {
         height: 800px;
     }
 }
+
+/* 
+    No celular o tamanho das sections das fotos estao erradas, elas ficam menores quando a imagem nao chega totalmemnte na tela, tem que ver sobre o paddin de tudo que esta lá.
+*/
