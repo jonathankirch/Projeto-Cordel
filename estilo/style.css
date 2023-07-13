@@ -71,22 +71,25 @@ section .p-normal {
     background-color: rgba(0, 0, 0, 0.486);
     color: white;
     display: inline-block;
+    text-shadow: 2px 2px 0px black;
 }
 
 .imagem01 {
     background-image: url(../imagens/background001.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 0px 12px 3px;
 }
 
 .imagem02 {
     background-image: url(../imagens/background002.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 0px 12px 3px;
 }
 
 footer {
