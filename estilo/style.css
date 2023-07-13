@@ -76,7 +76,6 @@ section .p-normal {
 
 .imagem01 {
     background-image: url(../imagens/background001.jpg);
-    padding: 50px 30px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -85,7 +84,6 @@ section .p-normal {
 
 .imagem02 {
     background-image: url(../imagens/background002.jpg);
-    padding: 50px 30px;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -128,11 +126,17 @@ footer a:hover {
         font-size: 2.5em;
     }
     .imagem01 {
-        height: 400px;
+        height: 550px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
     
     .imagem02 {
-        height: 400px;
+        height: 550px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
 }
 
@@ -148,11 +152,17 @@ footer a:hover {
         font-size: 3.5em;
     }
     .imagem01 {
-        height: 600px;
+        height: 750px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
     
     .imagem02 {
-        height: 600px;
+        height: 750px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
 }
 
@@ -168,11 +178,17 @@ footer a:hover {
         font-size: 4.5em;
     }
     .imagem01 {
-        height: 800px;
+        height: 950px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
     
     .imagem02 {
-        height: 800px;
+        height: 950px;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
     }
 }
 
